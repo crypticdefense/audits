@@ -1,1 +1,21 @@
-# audits
+# About CrypticDefense
+
+**Top-ranked web3 security researcher (2x 🏆1st place)** with a focus on AMMs, lending protocols, and bridges. Computer Science graduate, experienced judge for security competitions, and former developer specializing in debugging medical imaging software. Able to secure both Solana and EVM projects.
+
+## 📊 Contest Highlights
+
+| Contest      | Category        | Ranking   | Report |
+|--------------|-----------------|-----------|--------|
+| [**Balancer v3**](https://cantina.xyz/code/949ad7c5-ea14-427d-b10a-54e33cef921b/overview) | AMM (Ethereum) | 🥇 1st Place | [View Report](./contests/2024-10-balancerv3.md) |
+| [**Pike Finance / Tapio**](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview) | Lending + StableSwap AMM | 🥇 1st Place | [View Report](./contests/2025-07-pike.md) |
+| [**LayerX**](https://x.com/crypticdefense/status/1925000736196419595) | UniswapV4 Hooks integration, Staking Mechanisms, Token Factory | 🏅 4th Place | *(Private report)* |
+
+
+## Contests judged
+
+| Name                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Date                          |
+|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| [Jigsaw Finance / jigsaw-contracts](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea) | Jigsaw is a CDP-based stablecoin protocol that brings full flexibility and composability to collateral by reallocating assets across multiple strategies and protocols while maintaining active loans| June 2025          |
+| [Beraborrow / beraborrow-blockend](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e) | Beraborrow is a CDP featuring stablecoin loans backed by native Berachain assets, ETH LSTs, BTC derivatives, yield-bearing stablecoins and Proof of Liquidity assets (iBGT & iBERA).                                                                                                                                                                                                                                                                                                                                                                                                                   | March 2025            |
+| [Dahlia / dahlia-protocol](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b) | Dahlia is a permissionless, modular lending protocol that emphasizes advanced risk control and liquidity aggregation, built atop of the Royco Protocol.  | Feb 2025           |
+| [Daao / daao-contracts](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | DAAO is a decentralized autonomous agentic organization protocol that enables automated fundraising and liquidity management through Uniswap V3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Jan 2025          |
