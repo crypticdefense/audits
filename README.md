@@ -6,12 +6,12 @@
 
 | Contest      | Category        | Ranking   | Report |
 |--------------|-----------------|-----------|--------|
-| [**Balancer v3**](https://cantina.xyz/code/949ad7c5-ea14-427d-b10a-54e33cef921b/overview) | AMM (Ethereum) | 🥇 1st Place | [View Report](./contests/2024-10-balancerv3.md) |
+| [**Balancer v3**](https://cantina.xyz/code/949ad7c5-ea14-427d-b10a-54e33cef921b/overview) | AMM,  yield-bearing liquidity  | 🥇 1st Place | [View Report](./contests/2024-10-balancerv3.md) |
 | [**Pike Finance / Tapio**](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview) | Lending + StableSwap AMM | 🥇 1st Place | [View Report](./contests/2025-07-pike.md) |
-| [**LayerX**](https://x.com/crypticdefense/status/1925000736196419595) | UniswapV4 Hooks integration, Staking Mechanisms, Token Factory | 🏅 4th Place | *(Private report)* |
+| [**LayerX**](https://x.com/crypticdefense/status/1925000736196419595) | Uniswap v4 Hooks integration, staking mechanisms, token factory | 🏅 4th Place | *(Private report)* |
 
 
-## Contests judged
+## ⚖️ Contests judged
 
 | Name                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Date                          |
 |----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
