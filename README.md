@@ -1,6 +1,6 @@
 # About CrypticDefense
 
-**Top-ranked web3 security researcher (2x 🏆1st place)** with a focus on AMMs, lending protocols, and bridges. Computer Science graduate, experienced judge for security competitions, and former developer specializing in debugging medical imaging software. Able to secure both Solana and EVM projects.
+**Top-ranked web3 security researcher (2x 🏆1st place)** with a focus on AMMs, lending protocols, and bridges. Computer Science graduate, experienced judge for security competitions, and former developer specializing in debugging medical imaging software.
 
 ## 📊 Contest Highlights
 
