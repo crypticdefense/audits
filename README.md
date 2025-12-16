@@ -11,6 +11,14 @@
 | [**LayerX**](https://x.com/crypticdefense/status/1925000736196419595) | Uniswap v4 Hooks integration, staking mechanisms, token factory | 🏅 4th Place | *(Private report)* |
 
 
+## 🔒 Private Audits
+
+| ID | Protocol | Lang – Ecosystem | Description | Provider | Findings | Report |
+|----|----------|-----------------|-------------|----------|:--------:|:------:|
+| 01 | Nashpoint | Solidity – EVM | Structured yield and risk-managed DeFi strategies with composable position management | Guardian Audits | 2H / 14M / 27L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/Nashpoint/Nashpoint_Contracts_Review_report.pdf) |
+| 02 | Universal | Solidity – EVM (Uniswap v4) | Just-In-Time liquidity protocol built on Uniswap v4 hooks | Guardian Audits | 5M / 10L | ⏳ |
+
+
 ## ⚖️ Contests Judged
 
 | Name                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Date                          |
