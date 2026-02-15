@@ -16,7 +16,9 @@
 | ID | Protocol | Lang – Ecosystem | Description | Provider | Findings | Report |
 |----|----------|-----------------|-------------|----------|:--------:|:------:|
 | 01 | Nashpoint | Solidity – EVM | Structured yield and risk-managed DeFi strategies with composable position management | Guardian Audits | 2H / 14M / 27L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/Nashpoint/Nashpoint_Contracts_Review_report.pdf) |
-| 02 | Universal | Solidity – EVM (Uniswap v4) | Just-In-Time liquidity protocol built on Uniswap v4 hooks | Guardian Audits | 5M / 10L | ⏳ |
+| 02 | Universal | Solidity – EVM (Uniswap v4) | Just-In-Time liquidity protocol built on Uniswap v4 hooks | Guardian Audits | 5M / 14L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/Universal/Universal_Hook_Contracts_Review_report.pdf) |
+| 03 | Gamma TokenLaunch | Solidity – EVM (Uniswap v4) | Uniswap v4 liquidity management and automated token launch system | Guardian Audits | 8H / 25M / 22L | ⏳ |
+| 04 | Nashpoint Updates | Solidity - EVM | Investment adapter contract extending Nashpoint’s structured yield and composable strategy framework | Guardian Audits | TBA | ⏳ |
 
 
 ## ⚖️ Contests Judged
