@@ -1,6 +1,6 @@
 # About CrypticDefense
 
-**Top-ranked web3 security researcher (2x 🏆1st place)** with a focus on AMMs, lending protocols, and bridges. Computer Science graduate, experienced judge for security competitions, and former developer specializing in debugging medical imaging software.
+**Independent web3 security researcher (2x 🏆 1st place)** specializing in AMMs and DEXs, with deep experience in Uniswap v4 hooks. Computer Science graduate, security competition judge, and former developer. Available for AMM and DeFi protocol audits.
 
 ## 📊 Contest Highlights
 
