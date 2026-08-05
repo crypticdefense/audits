@@ -20,12 +20,14 @@
 | 03 | Gamma TokenLaunch | Solidity – EVM (Uniswap v4) | Uniswap v4 liquidity management and automated token launch system | Guardian Audits | 8H / 26M / 22L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/GammaStrategies/Gamma_Gamma_MultiPositionManager_report.pdf), [🧾](https://github.com/GuardianAudits/Audits/blob/main/GammaStrategies/Gamma_Unilaunch_LaunchPad_%2B_LimitOrderBook_report.pdf)   |
 | 04 | Nashpoint Updates | Solidity - EVM | Investment adapter contract extending Nashpoint’s structured yield and composable strategy framework | Guardian Audits | 1H / 2M / 4L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/Nashpoint/Nashpoint_Contract_Updates_Review_report.pdf) |
 | 05 | Truths Protocol | Solidity - EVM | Permissionless prediction market launchpad with deposit-based funding and Uniswap v4 liquidity bootstrapping | Guardian Audits | 4H / 22M / 23L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/Trueo/Trueo_Protocol_Review_Report.pdf) |
-| 06 | EthenaPay Wallet | Solidity - EVM | Non-custodial smart contract wallet with multi-auth support (passkeys, EOA, smart contracts) for payment operations | Guardian Audits | 3M / 7L | ⏳ |
-| 07 | EthenaSafeGuard | Solidity - EVM | Shared Safe transaction guard with executor whitelisting, timelocked sensitive operations, and emergency recovery mechanisms for secure multisig management | Guardian Audits | 2M / 4L | ⏳ |
-| 08 | Reflex Protocol | Solidity - EVM | On-chain MEV capture engine designed for seamless integration into DEX protocols and AMM systems. | Guardian Audits | 4H / 2M / 5L | ⏳ |
-| 09 | Olympus V3 | Solidity - EVM (LayerZero) | Cross-chain messaging and governance integration extending Olympus V3’s modular treasury and policy framework through LayerZero infrastructure | Guardian Audits | TBA | ⏳ |
-| 10 | PYUSDX | Solidity - EVM | Upgradeable stablecoin protocol with claimable yield mechanics, compliance controls, extension-based asset wrappers, and LayerZero-powered cross-chain bridging | Guardian Audits | TBA | ⏳ |
-
+| 06 | EthenaPay Wallet | Solidity - EVM | Non-custodial smart contract wallet with multi-auth support (passkeys, EOA, smart contracts) for payment operations | Guardian Audits | 3M / 7L | Private |
+| 07 | EthenaSafeGuard | Solidity - EVM | Shared Safe transaction guard with executor whitelisting, timelocked sensitive operations, and emergency recovery mechanisms for secure multisig management | Guardian Audits | 2M / 4L | Private |
+| 08 | Reflex Protocol | Solidity - EVM | On-chain MEV capture engine designed for seamless integration into DEX protocols and AMM systems. | Guardian Audits | 4H / 2M / 6L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/Reflex%20Protocol/Reflex_Protocol_Audit_Report.pdf) |
+| 09 | Olympus V3 | Solidity - EVM (LayerZero) | Cross-chain messaging and governance integration extending Olympus V3’s modular treasury and policy framework through LayerZero infrastructure | Guardian Audits | 1M / 3L | Private |
+| 10 | PYUSDX | Solidity - EVM | Upgradeable stablecoin protocol with claimable yield mechanics, compliance controls, extension-based asset wrappers, and LayerZero-powered cross-chain bridging | Guardian Audits | 8L | [🧾](https://github.com/GuardianAudits/Audits/blob/main/M0/M0_PYUSDX_Review_Report.pdf) |
+| 11 | Longshot | Rust, Solidity – EVM | High-performance RFQ trading engine with market maker gateway, on-chain settlement, and social copy-trading | Guardian Audits | 3H / 23M / 17L | Private |
+| 12 | Papertrade | Solidity - EVM (HyperEVM) | Perpetuals exchange with queue-based settlement, LP tokenomics, and Hyperliquid precompile integration | Guardian Audits | 1C / 4H / 11M / 11L| ⏳ |
+| 13 | Clanker | Solidity - EVM (Uniswap V4) | Autonomous token deployment protocol with Uniswap v4 hooks, MEV-resistant launch modules, and LP fee locking and distribution | Guardian Audits | 20H/ 13M / 22L | ⏳ |
 
 
 ## ⚖️ Contests Judged
